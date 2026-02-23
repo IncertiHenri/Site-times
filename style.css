@@ -2,3 +2,10 @@
     width: 100px;
     height: 100px;
 }
+#Navbar {
+    background-color: rgb(194, 11, 11);
+    color:white;
+
+    display: flex;
+    justify-content: space-between;
+}
