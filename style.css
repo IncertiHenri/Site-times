@@ -12,3 +12,13 @@
     padding: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+#Noticias {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.Noticia {
+
+}
