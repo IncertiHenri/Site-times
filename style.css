@@ -20,5 +20,16 @@
 }
 
 .Noticia {
+    background-color: rgb(253, 168, 142);
+    color: black;
+    border: 4px solid rgb(0, 0, 0); 
+    width: 20%; 
+    box-sizing: border-box; 
+    overflow: hidden;
+    
+}
 
+.img_noticia {
+    width: 100%;
+    height: 300px;
 }
